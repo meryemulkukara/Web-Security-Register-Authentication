@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad7e000-9112-4be5-ba92-cc945c1b74b4" name="Changes" comment="" />
+    <list default="true" id="5ad7e000-9112-4be5-ba92-cc945c1b74b4" name="Changes" comment="intellijconnect">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security Demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Security Demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security Demo/src/main/java/com/example/basicSecurity/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Security Demo/src/main/java/com/example/basicSecurity/service/JwtService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +35,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Demo for Security Learn",
+    "last_opened_file_path": "D:/Quest APP/BLOG/Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +75,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705948854422</updated>
-      <workItem from="1705948855690" duration="1728000" />
+      <workItem from="1705948855690" duration="7495000" />
     </task>
+    <task id="LOCAL-00001" summary="intellijconnect">
+      <created>1705952491867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705952491867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intellijconnect" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellijconnect" />
   </component>
 </project>
